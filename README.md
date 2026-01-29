@@ -1,4 +1,4 @@
-# Bank Loan Data Analysis Project
+# Bank Loan Data Analysis and Dashboard
 
 
 ## 1.Project Overview
