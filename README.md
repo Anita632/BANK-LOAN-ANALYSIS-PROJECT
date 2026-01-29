@@ -91,7 +91,7 @@ Visual analytics dashboard for trend and distribution analysis.
 
 ---
 
-### 📍 Dashboard 3: Details Dashboard
+### Dashboard 3: Details Dashboard
 
 A comprehensive data view for detailed inspection of individual records.
 
@@ -103,7 +103,7 @@ Purpose:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 4. Tools & Technologies Used
 
 * **SQL** – Data querying, KPI calculation, segmentation
 * **Python (Pandas, Matplotlib/Seaborn)** – Data cleaning and analysis
@@ -114,7 +114,7 @@ Purpose:
 
 ---
 
-## 4. Key Business Insights Generated
+## 5. Key Business Insights Generated
 
 * Identified proportion of risky (charged-off) loans
 * Found trends in loan demand across months
