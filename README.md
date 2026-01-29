@@ -1,7 +1,7 @@
 # Bank Loan Data Analysis Project
 
 
-## 📌 Project Overview
+## 1.Project Overview
 
 This project focuses on analysing bank loan data to evaluate lending performance, monitor portfolio health, and generate actionable insights using data-driven dashboards. The analysis helps distinguish between good and bad loans, understand customer behaviour, assess risk, and support strategic decision-making for financial institutions.
 
@@ -13,7 +13,7 @@ The project is designed as a **complete end-to-end data analytics case study**, 
 </p>
 
 
-## 🎯 Objectives
+## 2. Objectives
 
 * Monitor key loan performance indicators (KPIs)
 * Analyse trends in loan applications, funding, and repayments
@@ -23,9 +23,9 @@ The project is designed as a **complete end-to-end data analytics case study**, 
 
 ---
 
-## 📂 Dashboards Designed
+## 3. Dashboards Designed
 
-### 📍 Dashboard 1: Summary Dashboard
+###  Dashboard 1: Summary Dashboard
 
 Provides high-level KPIs to track overall loan performance.
 
@@ -65,28 +65,28 @@ Breakdown by Loan Status including:
 
 ---
 
-### 📍 Dashboard 2: Overview Dashboard
+###  Dashboard 2: Overview Dashboard
 
 Visual analytics dashboard for trend and distribution analysis.
 
 **Visualizations Included:**
 
-* 📈 **Monthly Trends (Line Chart)**
+*  **Monthly Trends (Line Chart)**
   Tracks applications, funded amount, and amount received over time
 
-* 🗺️ **Regional Analysis (Filled Map by State)**
+*  **Regional Analysis (Filled Map by State)**
   Identifies high-performing and low-performing regions
 
-* 🍩 **Loan Term Analysis (Donut Chart)**
+* **Loan Term Analysis (Donut Chart)**
   Compares loan performance across 36 months vs 60 months terms
 
-* 📊 **Employment Length Analysis (Bar Chart)**
+*  **Employment Length Analysis (Bar Chart)**
   Evaluates how employment stability impacts loan behaviour
 
-* 📊 **Loan Purpose Analysis (Bar Chart)**
+*  **Loan Purpose Analysis (Bar Chart)**
   Shows why customers take loans (debt consolidation, credit cards, etc.)
 
-* 🌳 **Home Ownership Analysis (Tree Map)**
+*  **Home Ownership Analysis (Tree Map)**
   Compares loan behaviour across Rent, Own, Mortgage categories
 
 ---
@@ -114,7 +114,7 @@ Purpose:
 
 ---
 
-## 📈 Key Business Insights Generated
+## 4. Key Business Insights Generated
 
 * Identified proportion of risky (charged-off) loans
 * Found trends in loan demand across months
